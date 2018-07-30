@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_LINQ", "06_LINQ\06_LINQ.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.01_LINQ", "06.01_LINQ\06.01_LINQ.csproj", "{F9BFE1BD-F4CB-4E04-AE39-CE5E5FA946DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.02_LINQ_OBJ", "06.02_LINQ_OBJ\06.02_LINQ_OBJ.csproj", "{63A5AA28-D54E-4AC7-A742-178BA9F94EF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F9BFE1BD-F4CB-4E04-AE39-CE5E5FA946DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9BFE1BD-F4CB-4E04-AE39-CE5E5FA946DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9BFE1BD-F4CB-4E04-AE39-CE5E5FA946DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A5AA28-D54E-4AC7-A742-178BA9F94EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A5AA28-D54E-4AC7-A742-178BA9F94EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A5AA28-D54E-4AC7-A742-178BA9F94EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A5AA28-D54E-4AC7-A742-178BA9F94EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
